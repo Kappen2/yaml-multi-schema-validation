@@ -1,3 +1,13 @@
 computer:
   cpu:
     cores: 8
+    manufacturer: company
+    frequency: 800
+  memory:
+    manufacturer: company
+    size: 50
+    type: abc
+  disk:
+    manufacturer: company
+    size: 50
+    type: acb
