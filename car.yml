@@ -1,6 +1,8 @@
 car:
   manufacturer: volvo
   model: xc90
-  year: 2012
-  attributes: big
+  year: "2012"
+  attributes:
+    - size: big
+    - color: red
   reg: abc123
