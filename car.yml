@@ -3,6 +3,6 @@ car:
   model: xc90
   year: "2012"
   attributes:
-    - size: big
-    - color: red
+    - big
+    - red
   reg: abc123
