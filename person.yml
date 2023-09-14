@@ -5,4 +5,5 @@ person:
   age: 22
   class: a3
   start_year: 2022
-  hobbies: knitting
+  hobbies:
+    - knitting
