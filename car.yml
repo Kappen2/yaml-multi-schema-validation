@@ -1,2 +1,6 @@
 car:
   manufacturer: volvo
+  model: xc90
+  year: 2012
+  attributes: big
+  reg: abc123
